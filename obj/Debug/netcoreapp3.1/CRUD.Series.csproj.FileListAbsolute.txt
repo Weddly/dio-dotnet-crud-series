@@ -1,0 +1,13 @@
+D:\Projetos\CRUD.Series\bin\Debug\netcoreapp3.1\CRUD.Series.exe
+D:\Projetos\CRUD.Series\bin\Debug\netcoreapp3.1\CRUD.Series.deps.json
+D:\Projetos\CRUD.Series\bin\Debug\netcoreapp3.1\CRUD.Series.runtimeconfig.json
+D:\Projetos\CRUD.Series\bin\Debug\netcoreapp3.1\CRUD.Series.runtimeconfig.dev.json
+D:\Projetos\CRUD.Series\bin\Debug\netcoreapp3.1\CRUD.Series.dll
+D:\Projetos\CRUD.Series\bin\Debug\netcoreapp3.1\CRUD.Series.pdb
+D:\Projetos\CRUD.Series\obj\Debug\netcoreapp3.1\CRUD.Series.csprojAssemblyReference.cache
+D:\Projetos\CRUD.Series\obj\Debug\netcoreapp3.1\CRUD.Series.AssemblyInfoInputs.cache
+D:\Projetos\CRUD.Series\obj\Debug\netcoreapp3.1\CRUD.Series.AssemblyInfo.cs
+D:\Projetos\CRUD.Series\obj\Debug\netcoreapp3.1\CRUD.Series.csproj.CoreCompileInputs.cache
+D:\Projetos\CRUD.Series\obj\Debug\netcoreapp3.1\CRUD.Series.dll
+D:\Projetos\CRUD.Series\obj\Debug\netcoreapp3.1\CRUD.Series.pdb
+D:\Projetos\CRUD.Series\obj\Debug\netcoreapp3.1\CRUD.Series.genruntimeconfig.cache
